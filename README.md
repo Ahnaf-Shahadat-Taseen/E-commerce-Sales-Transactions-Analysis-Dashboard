@@ -8,7 +8,7 @@ The analysis is based on a synthetic dataset containing **34,500 transaction rec
 
 ## 🖼️ Dashboard Preview
 
-!https://github.com/Ahnaf-Shahadat-Taseen/E-commerce-Sales-Transactions-Analysis-Dashboard/blob/main/d1.PNG(d1.PNG)
+![https://github.com/Ahnaf-Shahadat-Taseen/E-commerce-Sales-Transactions-Analysis-Dashboard/blob/main/d1.PNG](d1.PNG)
 
 ---
 
